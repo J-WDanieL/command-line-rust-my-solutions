@@ -3,8 +3,8 @@
 My solutions to the _[Command-Line Rust](https://github.com/kyclark/command-line-rust)_ exercises.
 
 ## Progress
-🦀 01_hello
-🦀 02_echor
+- 🦀 01_hello
+- 🦀 02_echor
 - [ ] 03_catr
 - [ ] 04_headr
 - [ ] 05_wcr
