@@ -5,7 +5,7 @@ My solutions to the _[Command-Line Rust](https://github.com/kyclark/command-line
 ## Progress
 - 🦀 01_hello
 - 🦀 02_echor
-- 🦀 03_catr
+- 🦀 [03_catr](catr/notes.md)
 - [ ] 04_headr
 - [ ] 05_wcr
 - [ ] 06_uniqr
